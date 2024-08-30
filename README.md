@@ -37,13 +37,40 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However, we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Screenshots
+
+![Screenshot (1)](https://github.com/user-attachments/assets/308a68de-e9f2-4ed4-9de5-cb556704f9d4)
+
+
+
+
+
+![Screenshot (2)](https://github.com/user-attachments/assets/db2634d6-e8c9-4c75-ad74-3c08e676c6cd)
+
+
+
+
+
+
+![Screenshot (3)](https://github.com/user-attachments/assets/2ca33f32-93f6-4061-a4a2-66144b1e864e)
+
+
+
+
+
+
+![Screenshot (4)](https://github.com/user-attachments/assets/969b4beb-caa3-4308-9dba-459fbe215dff)
+
+
+
 
 ### Code Splitting
 
